@@ -1,17 +1,4 @@
-<!DOCTYPE html>
-<html >
-<head>
-  <meta charset="UTF-8">
-  <title>have a test</title>
-<meta name="keywords" content="随便玩玩" />
-<meta name="description" content="thank u very much" />
-  <script src="js/jrj6out.js"></script>
-<script>try{Typekit.load({ async: false });}catch(e){}</script>
-  
-
-      <style>
-     
-      body {
+body {
   position: relative;
   margin: 0;
   overflow: hidden;
@@ -237,51 +224,3 @@ h1 {
   left: 7px;
   color: #E62117;
 }
-
-    </style>
-
-  <script src="js/prefixfree.min.js"></script>
-
-</head>
-
-<body>
-  <!-- This pen isn't a fan of small view heights, check it out in  fullpage view for optimal viewing	 -->
-  <div class="x-mark">
-		<div class="container">
-			<div class="left"></div>
-			<div class="right"></div>
-		</div>
-	</div>
-	<div class="intro-container">
-		
-		<h1>The Purpose Of Life<br>Is A Life Of Purpose</h1>
-
-		<div class="button shift-camera-button">
-			<div class="border">
-				<div class="left-plane"></div>
-				<div class="right-plane"></div>
-			</div>	
-			<div class="text">welcome</div>
-		</div>
-	</div>
-	<div class="sky-container">
-		<div class="text-right sky-container__left">
-			<h2 class="portfolio">
-				Hello
-			</h2>
-			<h2 class="resurrection">
-				我是陈升	
-			</h2>
-		</div>
-		
-	</div>
-
-
-  <script src='js/jquery.min.js'></script>
-<script src='js/TweenMax.min.js'></script>
-<script src='js/three.min.js'></script>
-
-      <script src="js/index.js"></script>
-
-</body>
-</html>
